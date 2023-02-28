@@ -1,0 +1,275 @@
+$WAVE4
+$RESOLUTION 1000
+$ENDTIME 800000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$S 1 1 semnal_cola
+$IN 2 1 S1
+$IN 3 1 S0
+I 2 "a#28#std_logic_vector(6 downto 0)1 ricd6 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT 4 2 7 RM
+$SC 5-+6
+$BUS S +1 2 7 coca_cola
+$SC +1-+6
+$S +1 1 buton_rest
+$BUS INOUT +1 2 7 AT
+$SC +1-+6
+$BUS S +1 2 7 AMout
+$SC +1-+6
+P 0 1-36 CS "0"
+P 0 4 +8 +9 +8 Radix "10"
+$WAVES 1
+=0 T 0
+=1 D 600k 1
+$VALUES
+V 2
+0
+1
+$END
+$WAVES 2
+*0
+=2 D 100k 3
+=3 D 200k 3
+=4 D 100k 1
+=5 D 200k 5
+*4
+$VALUES
+R 2 3 1 0
+$END
+$WAVES 3
+*0
+*2
+=6 D 100k 5
+*2
+=7 D 400k 1
+$VALUES
+R 2 2 0 1
+V 1
+0
+$END
+$WAVES 5
+*0
+=8 D 300k 4
+*4
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES 6 7 +6-+3
+*0
+$VALUES
+V 1
+0
+$END
+$WAVES 8
+*0
+=9 D 800k 1
+$VALUES
+V 2
+0
+1
+$END
+$WAVES 9
+*0
+=10 D 700k 1
+*4
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES +1
+*0
+*9
+$VALUES
+V 2
+0
+1
+$END
+$WAVES +1
+*0
+*8
+*4
+=11 D 300k 1
+*4
+$VALUES
+R 2 2 0 1
+V 1
+0
+$END
+$WAVES +6
+*0
+$VALUES
+V 1
+1
+$END
+$WAVES +1
+*0
+*9
+$VALUES
+V 2
+1
+0
+$END
+$WAVES +1
+*0
+*1
+=12 D 200k 1
+$VALUES
+V 3
+1
+0
+1
+$END
+$WAVES +1
+*0
+=13 D 300k 3
+*4
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES +2
+*0
+=14 T 300k
+$VALUES
+V 2
+0
+1
+$END
+$WAVES +1
+*0
+=15 T 100k
+=16 T 200k
+*14
+$VALUES
+R 2 2 0 1
+$END
+$WAVES +1
+*0
+*15
+*16
+*4
+*16
+$VALUES
+R 2 2 0 1
+V 1
+0
+$END
+$WAVES +1
+*0
+R 2 2 *16 *15
+*4
+$VALUES
+R 2 3 0 1
+$END
+$WAVES +1
+*0
+*16
+*15
+*14
+*4
+*15
+$VALUES
+R 2 3 0 1
+$END
+$WAVES +1
+*0
+R 1 2 *15
+*14
+*15
+*16
+$VALUES
+R 2 3 0 1
+$END
+$WAVES +1
+*0
+*14
+*4
+*11
+*15
+$VALUES
+R 2 2 0 1
+V 1
+0
+$END
+$WAVES +2
+*0
+=17 D 0 1
+$VALUES
+V 2
+U
+0
+$END
+$WAVES +1
+*0
+*17
+=18 D 100k 4
+$VALUES
+V 3
+U
+1
+0
+$END
+$WAVES +1
+*0
+*17
+*18
+$VALUES
+V 3
+U
+1
+0
+$END
+$WAVES +1
+*0
+*17
+*18
+=19 D 100k 6
+*12
+=20 D 200k 6
+$VALUES
+V 1
+U
+R 2 2 0 1
+V 1
+0
+$END
+$WAVES +1
+*0
+*17
+*20
+*18
+*7
+$VALUES
+V 1
+U
+R 2 2 0 1
+$END
+$WAVES +1
+*0
+*17
+*20
+*12
+*20
+$VALUES
+V 1
+U
+R 2 2 1 0
+$END
+$WAVES +1
+*0
+*17
+*20
+*18
+*7
+$VALUES
+V 1
+U
+R 2 2 0 1
+$END
+$ENDWAVE
