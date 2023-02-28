@@ -1,0 +1,1 @@
+-w -s "C:\Users\Dani\Desktop\mux4_1\library.cfg"  -j "C:\Users\Dani\Desktop\mux4_1\mux4_1\projlib.cfg"  -d "C:\Users\Dani\Desktop\mux4_1\mux4_1\compile\"  -work mux4_1 -dbg -e 100 "C:\Users\Dani\Desktop\mux4_1\mux4_1\src\mux4_1.vhd" 

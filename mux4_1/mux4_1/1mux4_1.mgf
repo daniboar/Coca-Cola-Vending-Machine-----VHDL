@@ -1,0 +1,120 @@
+I 000052 55 1209          1651925936190 mux4_1_arch
+(_unit VHDL (mux4_1 0 4 (mux4_1_arch 0 11 ))
+  (_version v33)
+  (_time 1651925936190 2022.05.07 15:18:56)
+  (_source (\./src/mux4_1.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651925810541)
+    (_use )
+  )
+  (_object
+    (_port (_internal F0 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal F1 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal F2 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal S0 ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal S1 ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal AM ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_process
+      (line__13(_architecture 0 0 13 (_process (_simple)(_target(5))(_sensitivity(3)(1)(0)(2)(4)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+  (_model . mux4_1_arch 1 -1
+  )
+)
+I 000052 55 1209          1651925952354 mux4_1_arch
+(_unit VHDL (mux4_1 0 4 (mux4_1_arch 0 11 ))
+  (_version v33)
+  (_time 1651925952354 2022.05.07 15:19:12)
+  (_source (\./src/mux4_1.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651925810541)
+    (_use )
+  )
+  (_object
+    (_port (_internal F0 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal F1 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal F2 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal S0 ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal S1 ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal AM ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_process
+      (line__13(_architecture 0 0 13 (_process (_simple)(_target(5))(_sensitivity(1)(0)(2)(4)(3)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+  (_model . mux4_1_arch 1 -1
+  )
+)
+I 000052 55 1209          1651926193605 mux4_1_arch
+(_unit VHDL (mux4_1 0 4 (mux4_1_arch 0 11 ))
+  (_version v33)
+  (_time 1651926193604 2022.05.07 15:23:13)
+  (_source (\./src/mux4_1.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651925810541)
+    (_use )
+  )
+  (_object
+    (_port (_internal F0 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal F1 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal F2 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal S0 ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal S1 ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal AM ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_process
+      (line__13(_architecture 0 0 13 (_process (_simple)(_target(5))(_sensitivity(0)(2)(1)(3)(4)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+  (_model . mux4_1_arch 1 -1
+  )
+)
+V 000052 55 1209          1651926230177 mux4_1_arch
+(_unit VHDL (mux4_1 0 4 (mux4_1_arch 0 11 ))
+  (_version v33)
+  (_time 1651926230176 2022.05.07 15:23:50)
+  (_source (\./src/mux4_1.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1651925810541)
+    (_use )
+  )
+  (_object
+    (_port (_internal F0 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal F1 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal F2 ~extieee.std_logic_1164.std_logic 0 5 (_entity (_in ))))
+    (_port (_internal S0 ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal S1 ~extieee.std_logic_1164.std_logic 0 6 (_entity (_in ))))
+    (_port (_internal AM ~extieee.std_logic_1164.std_logic 0 7 (_entity (_out ))))
+    (_process
+      (line__13(_architecture 0 0 13 (_process (_simple)(_target(5))(_sensitivity(2)(4)(0)(1)(3)))))
+    )
+    (_subprogram
+      (_external resolved (ieee std_logic_1164 0))
+    )
+    (_type (_external ~extieee.std_logic_1164.std_logic (ieee std_logic_1164 std_logic)))
+    (_type (_external ~extieee.std_logic_1164.std_ulogic (ieee std_logic_1164 std_ulogic)))
+  )
+  (_model . mux4_1_arch 1 -1
+  )
+)
